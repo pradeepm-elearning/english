@@ -2,4 +2,4 @@
 
 | **SLANG** | **MEANING** | **SENTENCE** |
 |-------|---------|----------|
-| flick | Movie | *I am planning to go see a **flick** this Saturday.* |
+| flick | Movie | *Want to see a **flick** on Saturday.* |
