@@ -1,5 +1,10 @@
-# WORDS FOR EMAILS
-1. Firstly -> To begin with
-2. Secondly -> In addition
-3. Thirdly -> Further more
-4. Lastly -> In conclusion
+# EMAILS
+### WORDS FOR EMAILS
+
+
+| **FORMAL** | **EMAIL** |
+|--------|-------|
+| firstly | *to begin with* |
+| secondly | *in addition* |
+| thirdly | *further more* |
+| lastly | *in conclusion* |
