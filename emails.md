@@ -1,7 +1,6 @@
 # EMAILS
+
 ### WORDS FOR EMAILS
-
-
 | **FORMAL** | **EMAIL** |
 |--------|-------|
 | firstly | *to begin with* |
