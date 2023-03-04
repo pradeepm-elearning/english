@@ -16,8 +16,8 @@
 | dark horse | someone who has greater abilities than he/she shows | ** |
 | smart cookie | a smart and intelligent person or clever person | ** |
 | pain in the neck | an irritating or annoying person | ** |
-| | | ** |
-| | | ** |
+| cold shoulder | a show of intentional unfriendliness | *how long do you intend on giving us the cold shoulder?* |
+| twisted idea | kind of stupid idea | *I am not sure whose twisted idea it was.* |
 | | | ** |
 | | | ** |
 | | | ** |
