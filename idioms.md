@@ -16,7 +16,7 @@
 | dark horse | someone who has greater abilities than he/she shows | ** |
 | smart cookie | a smart and intelligent person or clever person | ** |
 | pain in the neck | an irritating or annoying person | ** |
-| | | ** |
+| short bus | Bus used for transporting children who are physically disabled| *The Human race is officially on the Short Bus* |
 | | | ** |
 | | | ** |
 | | | ** |
