@@ -1,6 +1,7 @@
 # SLANGS
 
 | **SLANG** | **MEANING** | **SENTENCE** |
+|--------|----------|----------|
 | flick | movie | *Want to see a **flick** on Saturday.* |
 | my bad | sorry | |
 | pissed | angry | *why are you so **pissed** off* |
