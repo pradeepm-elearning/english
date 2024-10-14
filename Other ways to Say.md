@@ -1,6 +1,7 @@
 # OTHER WAYS TO SAY
 
 | **OTHER WAYS TO SAY** | **IDIOMS**  | **EMOTION** | **MEANINGS**  | **SENTENCE** |
+|--------|----------|----------|--------|----------|
 | Go Away | skedaddle | Playful | Go away quickly, especially in order to avoid someone | |
 | | never darken my door again  | Playful | Go away and never come to my home again | |
 | | scoot | Casual  | Go away quickly | |
