@@ -8,3 +8,4 @@
 | | beat it | Rude  | Go away immediately | |
 | | take a hike | Rude  | Go away | |
 | | go fly a kite | Rude  | Go away and stop annoying me or interfering | |
+| Have Patience |  |  |  | https://idiominsider.com/idioms-for-patience/ |

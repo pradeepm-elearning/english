@@ -4,9 +4,11 @@
 |--------|----------|----------|
 | out of the blue | Unexpectedly | *One of my friend called me **out of the blue** to inform he is getting married.* |
 | burning the candle at both ends | to overwork | *She studies all night and works all day. She’s **burning the candle at both ends**.*<br/>*I used to **burn the candle at both ends** and got really tired.*<br/>*Don’t **burn the candle at both ends** — you’ll fall sick.*<br/>*He’s **burning the candle at both ends** with work and parties.*<br/>*I was **burning the candle at both ends** during exam week.*<br/> |
+| piece of cake | very easy to do | *don't worry about the test, it will piece of cake.* |
 
 
 | **IDIOMS** | **MEANINGS** | **SENTENCE** |
+|-|-|-|
 | Once in a blue moon | Rarely  | ** |
 | big mouth | someone who is unable to keep a secret | ** |
 | as keen as mustard | very excited and enthusiastic | *Kids are always **as keen as mustard** to learn new things around them.* |
